@@ -96,8 +96,8 @@ footer {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 #logo {
-  height: auto;
-  width: 18%;
+  height: 222px;
+  width: 222px;
   display: block;
   margin-bottom: 10px;
   border-radius: 50px;
